@@ -69,7 +69,7 @@ export default [
       {
         id: 7,
         postedOn: '2023-11-03',
-        title: 'DevOps Engineer',
+        title: 'Developer Advocate',
         company: 'Tesla',
         type: 'Full Time',
         experience: 'Mid Level',

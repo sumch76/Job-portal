@@ -20,7 +20,7 @@ function Navbar() {
 
   return (
     <div className="h-20 flex items-center justify-between w-full text-white px-20">
-      <div className="text-3xl font-bold">Joboard.</div>
+      <div className="text-3xl font-bold">Job Portal</div>
       <svg
         className="w-6 h-6 text-gray-800 dark:text-white"
         aria-hidden="true"
